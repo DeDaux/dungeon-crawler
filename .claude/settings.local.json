@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem Slime -Recurse -File | Select-Object -ExpandProperty FullName | ForEach-Object { $_.Replace\\(\"$PWD\\\\\", ''\\) }; Get-ChildItem Goblin | Select-Object -ExpandProperty Name)"
+    ]
+  }
+}

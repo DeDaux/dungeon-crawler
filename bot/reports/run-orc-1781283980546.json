@@ -1,0 +1,1368 @@
+{
+  "runId": "run-orc-1781283980546",
+  "championId": "orc",
+  "timestamp": "2026-06-12T17:06:39.335Z",
+  "totalTurns": 4,
+  "highestFloor": 1,
+  "totalKills": 0,
+  "totalGold": 0,
+  "died": true,
+  "victory": false,
+  "totalDamageTaken": 78,
+  "totalDamageDealt": 0,
+  "bugsBySeverity": {
+    "CRITICAL": 225
+  },
+  "bugs": [
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.212Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.212Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.212Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.212Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.225Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.226Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.241Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.241Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.241Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.241Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.241Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.241Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.247Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.247Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.247Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.247Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.247Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.247Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.247Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.251Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.251Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.251Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.251Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.251Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.251Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.256Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.256Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.256Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.256Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.256Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.256Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.256Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.256Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.256Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.256Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.256Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.256Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.261Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.261Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.261Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.261Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.261Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.261Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.312Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.312Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.312Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.312Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.312Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.313Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.313Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.313Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.313Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.313Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.314Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.314Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.314Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.314Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.314Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.315Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.315Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.315Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.315Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.315Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.315Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.315Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.315Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.316Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.316Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.316Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.316Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.316Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.316Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.317Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.317Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.317Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.317Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.318Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.318Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.318Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.318Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.319Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.319Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.319Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.319Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.320Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.320Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.320Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.320Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.320Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.320Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.320Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.320Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.321Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.321Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.356Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.371Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.371Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.387Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.392Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.395Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.397Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.416Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.419Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.421Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.423Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.424Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.424Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.424Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.424Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.424Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.425Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.426Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.426Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.426Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.426Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.426Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.427Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.428Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.428Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.428Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.428Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.428Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.431Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.431Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.431Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.431Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.431Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.431Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.433Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.434Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.436Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.436Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.437Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.437Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.438Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.438Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.438Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.438Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.438Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.438Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.440Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.440Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.440Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.440Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.440Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.440Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.440Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.440Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.440Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.440Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.440Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.440Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.440Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.440Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.440Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.441Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.441Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.441Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.441Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.441Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.441Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.441Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.443Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.443Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.443Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.443Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.443Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.443Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.443Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.443Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.443Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.443Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.443Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.444Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.444Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.444Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.444Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.444Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.444Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.444Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.444Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.444Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.444Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.445Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.445Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.445Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.445Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.445Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.445Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.445Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.445Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T17:06:21.450Z"
+    }
+  ]
+}

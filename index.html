@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dungeon Crawler</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Champion Select overlay */
+        /* Main Menu */
+        #mainMenu {
+            position: fixed;
+            inset: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            z-index: 100;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #e0e0e0;
+        }
+        #mainMenuVideo {
+            position: fixed;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1;
+            filter: brightness(0.5);
+        }
+        #mainMenu > *:not(#mainMenuVideo) {
+            position: relative;
+            z-index: 1;
+        }
+        #mainMenu h1 {
+            font-size: 48px;
+            margin: 0 0 4px 0;
+            color: #d4a84b;
+            letter-spacing: 4px;
+            text-shadow: 0 0 20px rgba(212, 168, 75, 0.4);
+        }
+        #mainMenu .subtitle {
+            color: #888;
+            margin-bottom: 32px;
+            font-size: 16px;
+        }
+        #mainMenu .menu-buttons {
+            display: flex;
+            gap: 16px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        #mainMenu .btn {
+            padding: 14px 36px;
+            font-size: 18px;
+            font-weight: bold;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }
+        #mainMenu .btn-primary { background: #d4a84b; color: #1a1a24; }
+        #mainMenu .btn-primary:hover { background: #e0b850; transform: scale(1.05); }
+        #mainMenu .btn-accent { background: #5c6bc0; color: #fff; }
+        #mainMenu .btn-accent:hover { background: #7986cb; transform: scale(1.05); }
+
+        #modeSelect {
+            position: fixed;
+            inset: 0;
+            background: radial-gradient(ellipse at center, #1e1e2e 0%, #0a0a12 100%);
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            z-index: 100;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #e0e0e0;
+        }
+        #modeSelect h1 { font-size: 32px; margin: 0 0 4px 0; color: #d4a84b; letter-spacing: 2px; }
+        #modeSelect .subtitle { color: #888; margin-bottom: 24px; font-size: 14px; }
+        #modeSelect .menu-buttons { display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; }
+        #modeSelect .btn-mode {
+            padding: 20px 40px;
+            font-size: 18px;
+            font-weight: bold;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.2s;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            min-width: 220px;
+            text-align: center;
+            line-height: 1.4;
+        }
+        #modeSelect .btn-mode:hover { transform: scale(1.05); }
+        #modeSelect .btn-mode .sub { font-size: 12px; opacity: 0.7; font-weight: normal; }
+        #modeSelect .btn-mode-dungeon { background: #d4a84b; color: #1a1a24; }
+        #modeSelect .btn-mode-dungeon:hover { background: #e0b850; }
+        #modeSelect .btn-mode-defense { background: #7C4DFF; color: #fff; }
+        #modeSelect .btn-mode-defense:hover { background: #9C7CFF; }
+        #modeSelect .btn-mode-back { padding: 10px 30px; font-size: 14px; font-weight: bold; border: none; border-radius: 6px; cursor: pointer; transition: all 0.2s; background: #444; color: #ccc; }
+        #modeSelect .btn-mode-back:hover { background: #555; }
+
+        #champSelect {
+            position: fixed;
+            inset: 0;
+            background: radial-gradient(ellipse at center, #1e1e2e 0%, #0a0a12 100%);
+            display: none;
+
+            flex-direction: column;
+
+            align-items: center;
+            /* "safe center" keeps the grid centered when it fits, but falls back to
+               top-aligned (fully scrollable) when the cards overflow — without this,
+               centered overflow clips the top & bottom rows and they're unreachable. */
+            justify-content: safe center;
+            z-index: 100;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #e0e0e0;
+            overflow-y: auto;
+            padding: 20px 0;
+            box-sizing: border-box;
+        }
+        #champSelectVideo {
+            position: fixed;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1;
+            filter: brightness(0.5);
+        }
+        #champSelect > *:not(#champSelectVideo) {
+            position: relative;
+            z-index: 1;
+        }
+        #champSelect h1 {
+            font-size: 28px;
+            margin: 0 0 2px 0;
+            color: #d4a84b;
+            letter-spacing: 2px;
+            text-shadow: 0 0 16px rgba(212, 168, 75, 0.3);
+        }
+        #champSelect .subtitle {
+            color: #888;
+            margin-bottom: 12px;
+            font-size: 13px;
+        }
+        #champSelect .grid {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            justify-content: center;
+            max-width: 850px;
+        }
+        .champ-card {
+            background: rgba(30, 30, 45, 0.9);
+            border: 2px solid #333;
+            border-radius: 10px;
+            padding: 12px;
+            width: 160px;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-align: center;
+        }
+        .champ-card:hover {
+            border-color: #d4a84b;
+            transform: translateY(-3px);
+            box-shadow: 0 6px 20px rgba(212, 168, 75, 0.12);
+        }
+        .champ-card.selected {
+            border-color: #d4a84b;
+            background: rgba(40, 40, 60, 0.95);
+            box-shadow: 0 0 20px rgba(212, 168, 75, 0.35), inset 0 0 12px rgba(212, 168, 75, 0.08);
+            transform: translateY(-3px);
+        }
+        .champ-card.selected .icon {
+            box-shadow: 0 0 12px rgba(212, 168, 75, 0.25);
+        }
+        .champ-card .select-arrow {
+            opacity: 0;
+            transition: opacity 0.2s;
+            color: #d4a84b;
+            font-size: 12px;
+            margin-top: 4px;
+            display: block;
+        }
+        .champ-card.selected .select-arrow {
+            opacity: 1;
+        }
+        .champ-card .icon {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            margin: 0 auto 8px auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 22px;
+            font-weight: bold;
+        }
+        .champ-card h2 {
+            margin: 0 0 2px 0;
+            font-size: 15px;
+        }
+        .champ-card .role {
+            color: #888;
+            font-size: 11px;
+            margin-bottom: 6px;
+        }
+        .champ-card .spell-list {
+            font-size: 10px;
+            color: #aaa;
+            text-align: left;
+            line-height: 1.5;
+        }
+        .champ-card .spell-list span {
+            color: #d4a84b;
+            font-weight: bold;
+        }
+        #startBtn {
+            margin-top: 20px;
+            padding: 12px 40px;
+            font-size: 18px;
+            font-weight: bold;
+            background: #d4a84b;
+            color: #1a1a24;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+            opacity: 0.5;
+            pointer-events: none;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }
+        #startBtn.active {
+            opacity: 1;
+            pointer-events: auto;
+            box-shadow: 0 0 25px rgba(212, 168, 75, 0.5);
+            animation: pulse-btn 1.5s ease-in-out infinite;
+        }
+        #startBtn.active:hover {
+            background: #e0b850;
+            transform: scale(1.05);
+            box-shadow: 0 0 35px rgba(212, 168, 75, 0.7);
+        }
+        @keyframes pulse-btn {
+            0%, 100% { box-shadow: 0 0 15px rgba(212, 168, 75, 0.3); }
+            50% { box-shadow: 0 0 30px rgba(212, 168, 75, 0.6); }
+        }
+
+        #gameOver {
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.85);
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            z-index: 100;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #e0e0e0;
+        }
+        /* ── Multiplayer Lobby ── */
+        #mpLobby {
+            position: fixed;
+            inset: 0;
+            background: radial-gradient(ellipse at center, #1e1e2e 0%, #0a0a12 100%);
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            /* safe center: stay centered when it fits, scroll (not clip) when the
+               champion grid overflows — same fix as #champSelect. */
+            justify-content: safe center;
+            z-index: 100;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #e0e0e0;
+            overflow-y: auto;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        #mpLobby h1 { font-size: 28px; margin: 0 0 4px 0; color: #d4a84b; letter-spacing: 2px; }
+        #mpLobby .panel { max-width: 520px; width: 100%; margin: 0 auto; text-align: center; }
+        #mpLobby .input-row { display: flex; gap: 8px; margin: 16px 0; justify-content: center; }
+        #mpLobby input[type="text"] {
+            background: rgba(255,255,255,0.08);
+            border: 1px solid #555;
+            color: #e0e0e0;
+            padding: 10px 14px;
+            border-radius: 6px;
+            font-size: 14px;
+            width: 280px;
+            outline: none;
+        }
+        #mpLobby input[type="text"]:focus { border-color: #d4a84b; }
+        #mpLobby .btn-row { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+        #mpLobby .btn {
+            padding: 12px 28px;
+            font-size: 16px;
+            font-weight: bold;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }
+        #mpLobby .btn-primary { background: #d4a84b; color: #1a1a24; }
+        #mpLobby .btn-primary:hover { background: #e0b850; transform: scale(1.03); }
+        #mpLobby .btn-secondary { background: #444; color: #ccc; }
+        #mpLobby .btn-secondary:hover { background: #555; }
+        #mpLobby .btn-danger { background: #c62828; color: #fff; }
+        #mpLobby .btn-danger:hover { background: #e53935; }
+        #mpLobby .status { margin: 12px 0; font-size: 14px; min-height: 20px; }
+        #mpLobby .wait-msg { font-size: 18px; color: #aaa; margin: 20px 0; }
+        #mpLobby .spinner { display: inline-block; width: 24px; height: 24px; border: 3px solid #555; border-top-color: #d4a84b; border-radius: 50%; animation: mp-spin 0.8s linear infinite; margin-bottom: 12px; }
+        @keyframes mp-spin { to { transform: rotate(360deg); } }
+        #mpLobby .grid {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            justify-content: center;
+            max-width: 850px;
+            margin: 0 auto;
+        }
+        #mpChampStartBtn, #mpHostStartBtn {
+            margin-top: 20px;
+            padding: 12px 40px;
+            font-size: 18px;
+            font-weight: bold;
+            background: #d4a84b;
+            color: #1a1a24;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+            opacity: 0.5;
+            pointer-events: none;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }
+        #mpChampStartBtn.active, #mpHostStartBtn.active {
+            opacity: 1;
+            pointer-events: auto;
+            box-shadow: 0 0 25px rgba(212, 168, 75, 0.5);
+            animation: pulse-btn 1.5s ease-in-out infinite;
+        }
+        #mpChampStartBtn.active:hover, #mpHostStartBtn.active:hover {
+            background: #e0b850;
+            transform: scale(1.05);
+            box-shadow: 0 0 35px rgba(212, 168, 75, 0.7);
+        }
+
+        #gameOver h1 {
+            font-size: 48px;
+            color: #e53935;
+            margin: 0 0 10px 0;
+        }
+
+        #gameOver .stats {
+            font-size: 18px;
+            color: #aaa;
+            margin-bottom: 20px;
+        }
+        #restartBtn {
+            padding: 12px 40px;
+            font-size: 18px;
+            background: #d4a84b;
+            color: #1a1a24;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+        #restartBtn:hover {
+            background: #e0b850;
+        }
+
+        canvas {
+            cursor: default;
+        }
+    </style>
+</head>
+<body>
+    <!-- Mode Select overlay -->
+    <div id="modeSelect">
+        <h1 id="modeSelectTitle">SELECT GAME MODE</h1>
+        <div class="subtitle" id="modeSelectStatus"></div>
+        <div class="menu-buttons">
+            <button id="modeDungeonBtn" class="btn-mode btn-mode-dungeon">🗡️ Dungeon Crawl<span class="sub"><br>Traditional floors & rooms</span></button>
+            <button id="modeDefenseBtn" class="btn-mode btn-mode-defense">🛡️ Base Defense<span class="sub"><br>Defend your base with towers</span></button>
+        </div>
+        <div style="margin-top:24px;">
+            <button id="modeBackBtn" class="btn-mode-back">← Back</button>
+        </div>
+    </div>
+
+    <!-- Main Menu -->
+    <div id="mainMenu">
+        <video id="mainMenuVideo" autoplay loop muted playsinline src="Selection Screen/Campfire_with_floating_embers_202606130358.mp4"></video>
+        <h1>DUNGEON CRAWLER</h1>
+        <div class="subtitle">A Roguelike Dungeon Crawl</div>
+        <div class="menu-buttons">
+            <button id="soloBtn" class="btn btn-primary">⚔️ Play Solo</button>
+            <button id="multiplayerBtn" class="btn btn-accent">👥 Multiplayer</button>
+        </div>
+    </div>
+
+    <div id="champSelect">
+        <video id="champSelectVideo" autoplay loop muted playsinline src="Selection Screen/Campfire_with_floating_embers_202606130358.mp4"></video>
+        <h1>DUNGEON CRAWLER</h1>
+        <div class="subtitle">Select your champion</div>
+        <div class="grid" id="champGrid"></div>
+        <button id="startBtn">Enter the Dungeon</button>
+    </div>
+
+
+    <!-- Multiplayer Lobby -->
+    <div id="mpLobby">
+        <div class="panel" id="mpConnectPanel">
+            <h1>🕹️ MULTIPLAYER</h1>
+            <div class="subtitle">Host or join a game</div>
+            <div class="status" id="mpStatus"></div>
+            <div class="input-row">
+                <input type="text" id="mpServerUrl" placeholder="ws://localhost:8742" value="ws://localhost:8742">
+            </div>
+            <div class="btn-row">
+                <button class="btn btn-primary" id="mpHostBtn">🎮 Host Game</button>
+                <button class="btn btn-accent" id="mpGuestBtn">🔗 Join Game</button>
+            </div>
+            <div style="margin-top:12px;">
+                <button class="btn btn-secondary" id="mpBackBtn">← Back</button>
+            </div>
+        </div>
+        <div class="panel" id="mpWaitPanel" style="display:none;">
+            <h1>🕹️ MULTIPLAYER</h1>
+            <div class="spinner" id="mpWaitSpinner"></div>
+            <div class="wait-msg" id="mpWaitMsg">Waiting...</div>
+            <div class="status" id="mpWaitStatus"></div>
+            <button id="mpHostStartBtn" style="display:none;">Start Game</button>
+        </div>
+        <div class="panel" id="mpChampSelectPanel" style="display:none;">
+            <h1 id="mpChampTitle">Select Your Champion</h1>
+            <div class="grid" id="mpChampGrid"></div>
+            <button id="mpChampStartBtn">Confirm</button>
+        </div>
+    </div>
+
+    <div id="gameOver">
+        <h1 id="gameOverTitle">YOU HAVE FALLEN</h1>
+        <div class="stats" id="deathStats"></div>
+        <button id="restartBtn">Return to Menu</button>
+    </div>
+
+    <canvas id="gameCanvas"></canvas>
+    <script type="module" src="src/main.js"></script>
+
+</body>
+</html>

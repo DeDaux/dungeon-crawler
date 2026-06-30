@@ -1,0 +1,16 @@
+[Unit]
+Description=Dungeon Crawler multiplayer relay
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/dungeon-crawler
+ExecStart=/usr/bin/node server/index.js
+Environment=PORT=8742
+Restart=on-failure
+RestartSec=3
+User=dungeon
+Group=dungeon
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: dungeon-crawler-relay
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm run mp-server

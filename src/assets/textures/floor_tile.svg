@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Base: deep cosmic stone, tinted to match the nebula walls/void -->
+  <rect width="64" height="64" fill="#221a33"/>
+
+  <!-- Grout lines forming a 2x2 slab grid -->
+  <rect x="0" y="0" width="64" height="64" fill="#160f24"/>
+
+  <!-- Slab 1 (top-left) -->
+  <rect x="2" y="2" width="28" height="28" fill="#2a2040"/>
+  <rect x="2" y="2" width="28" height="2" fill="rgba(180,140,255,0.07)"/>
+  <rect x="2" y="2" width="2" height="28" fill="rgba(180,140,255,0.07)"/>
+  <rect x="28" y="2" width="2" height="28" fill="rgba(0,0,0,0.25)"/>
+  <rect x="2" y="28" width="28" height="2" fill="rgba(0,0,0,0.25)"/>
+
+  <!-- Slab 2 (top-right) -->
+  <rect x="34" y="2" width="28" height="28" fill="#271d3c"/>
+  <rect x="34" y="2" width="28" height="2" fill="rgba(180,140,255,0.07)"/>
+  <rect x="34" y="2" width="2" height="28" fill="rgba(180,140,255,0.07)"/>
+  <rect x="60" y="2" width="2" height="28" fill="rgba(0,0,0,0.25)"/>
+  <rect x="34" y="28" width="28" height="2" fill="rgba(0,0,0,0.25)"/>
+
+  <!-- Slab 3 (bottom-left) -->
+  <rect x="2" y="34" width="28" height="28" fill="#251c39"/>
+  <rect x="2" y="34" width="28" height="2" fill="rgba(180,140,255,0.07)"/>
+  <rect x="2" y="34" width="2" height="28" fill="rgba(180,140,255,0.07)"/>
+  <rect x="28" y="34" width="2" height="28" fill="rgba(0,0,0,0.25)"/>
+  <rect x="2" y="60" width="28" height="2" fill="rgba(0,0,0,0.25)"/>
+
+  <!-- Slab 4 (bottom-right) -->
+  <rect x="34" y="34" width="28" height="28" fill="#2c2243"/>
+  <rect x="34" y="34" width="28" height="2" fill="rgba(180,140,255,0.07)"/>
+  <rect x="34" y="34" width="2" height="28" fill="rgba(180,140,255,0.07)"/>
+  <rect x="60" y="34" width="2" height="28" fill="rgba(0,0,0,0.25)"/>
+  <rect x="34" y="60" width="28" height="2" fill="rgba(0,0,0,0.25)"/>
+
+  <!-- Faint violet nebula haze, echoing the wall/void texture -->
+  <ellipse cx="46" cy="14" rx="14" ry="9" fill="rgba(150,90,220,0.05)"/>
+  <ellipse cx="14" cy="48" rx="16" ry="10" fill="rgba(120,80,200,0.04)"/>
+
+  <!-- Star-dust speckles matching the void texture -->
+  <circle cx="9" cy="14" r="0.8" fill="rgba(255,255,255,0.18)"/>
+  <circle cx="22" cy="9" r="0.5" fill="rgba(200,170,255,0.20)"/>
+  <circle cx="14" cy="24" r="0.6" fill="rgba(255,255,255,0.12)"/>
+  <circle cx="44" cy="12" r="0.7" fill="rgba(255,255,255,0.15)"/>
+  <circle cx="52" cy="22" r="0.5" fill="rgba(200,170,255,0.18)"/>
+  <circle cx="40" cy="25" r="0.6" fill="rgba(255,255,255,0.10)"/>
+  <circle cx="10" cy="46" r="0.6" fill="rgba(255,255,255,0.12)"/>
+  <circle cx="24" cy="54" r="0.8" fill="rgba(200,170,255,0.16)"/>
+  <circle cx="18" cy="40" r="0.5" fill="rgba(255,255,255,0.10)"/>
+  <circle cx="48" cy="48" r="0.8" fill="rgba(255,255,255,0.16)"/>
+  <circle cx="54" cy="40" r="0.5" fill="rgba(200,170,255,0.14)"/>
+  <circle cx="42" cy="56" r="0.6" fill="rgba(255,255,255,0.10)"/>
+</svg>

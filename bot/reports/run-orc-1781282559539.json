@@ -1,0 +1,2419 @@
+{
+  "runId": "run-orc-1781282559539",
+  "championId": "orc",
+  "timestamp": "2026-06-12T16:44:44.798Z",
+  "totalTurns": 30,
+  "highestFloor": 1,
+  "totalKills": 0,
+  "totalGold": 0,
+  "died": false,
+  "victory": false,
+  "totalDamageTaken": 121,
+  "totalDamageDealt": 59,
+  "bugsBySeverity": {
+    "CRITICAL": 225,
+    "HIGH": 150
+  },
+  "bugs": [
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.277Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.278Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.284Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.284Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.284Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.293Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.293Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.294Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.312Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.312Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.312Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.312Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.312Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.312Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.319Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.319Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.319Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.319Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.319Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.319Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.319Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.319Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.319Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.319Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.319Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.320Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.320Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.325Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.325Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.325Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.325Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.325Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.325Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.327Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.391Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.391Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.391Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.392Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.392Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.392Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.392Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.392Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.393Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.393Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.394Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.394Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.394Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.394Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.394Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.395Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.395Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.396Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.396Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.396Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.396Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.396Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.396Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.396Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.397Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.397Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.397Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.397Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.397Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.397Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.398Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.398Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.398Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.398Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.398Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.399Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.399Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.399Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.399Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.399Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.399Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.400Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.400Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.400Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.400Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.401Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.401Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.401Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.402Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.402Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.402Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.403Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.403Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.403Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.403Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.404Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.404Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.404Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.463Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.463Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.463Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.463Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.463Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.463Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.463Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.471Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.471Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.471Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.476Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.476Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.476Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.480Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.481Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.481Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.481Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.481Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.481Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.482Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.482Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.482Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.482Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.482Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.482Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.482Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.482Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.482Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.483Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.521Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.521Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.521Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.521Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.521Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.521Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.521Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.521Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.530Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.530Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.530Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.530Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.530Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.530Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.531Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.531Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.531Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.531Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.531Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.531Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.545Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.545Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.545Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.545Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.545Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.545Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.566Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.566Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.566Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.566Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.566Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.566Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.566Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.566Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.566Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.566Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.566Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.566Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.566Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.570Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.570Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.570Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.570Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.570Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.570Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.570Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.573Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.573Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.573Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.573Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.573Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.573Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.581Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.589Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.593Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.595Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.595Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.596Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.596Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.596Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.598Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.599Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.599Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.599Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.599Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.599Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+      "timestamp": "2026-06-12T16:42:40.605Z"
+    },
+    {
+      "turn": 1,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:44.111Z"
+    },
+    {
+      "turn": 1,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:44.111Z"
+    },
+    {
+      "turn": 1,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:44.111Z"
+    },
+    {
+      "turn": 1,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:44.111Z"
+    },
+    {
+      "turn": 1,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:44.111Z"
+    },
+    {
+      "turn": 2,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:48.137Z"
+    },
+    {
+      "turn": 2,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:48.137Z"
+    },
+    {
+      "turn": 2,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:48.137Z"
+    },
+    {
+      "turn": 2,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:48.137Z"
+    },
+    {
+      "turn": 2,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:48.137Z"
+    },
+    {
+      "turn": 3,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:52.255Z"
+    },
+    {
+      "turn": 3,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:52.255Z"
+    },
+    {
+      "turn": 3,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:52.255Z"
+    },
+    {
+      "turn": 3,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:52.255Z"
+    },
+    {
+      "turn": 3,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:52.255Z"
+    },
+    {
+      "turn": 4,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:56.303Z"
+    },
+    {
+      "turn": 4,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:56.304Z"
+    },
+    {
+      "turn": 4,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:56.304Z"
+    },
+    {
+      "turn": 4,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:56.304Z"
+    },
+    {
+      "turn": 4,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:42:56.304Z"
+    },
+    {
+      "turn": 5,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:00.407Z"
+    },
+    {
+      "turn": 5,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:00.407Z"
+    },
+    {
+      "turn": 5,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:00.407Z"
+    },
+    {
+      "turn": 5,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:00.407Z"
+    },
+    {
+      "turn": 5,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:00.407Z"
+    },
+    {
+      "turn": 6,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:04.409Z"
+    },
+    {
+      "turn": 6,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:04.409Z"
+    },
+    {
+      "turn": 6,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:04.409Z"
+    },
+    {
+      "turn": 6,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:04.409Z"
+    },
+    {
+      "turn": 6,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:04.409Z"
+    },
+    {
+      "turn": 7,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:08.600Z"
+    },
+    {
+      "turn": 7,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:08.600Z"
+    },
+    {
+      "turn": 7,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:08.600Z"
+    },
+    {
+      "turn": 7,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:08.600Z"
+    },
+    {
+      "turn": 7,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:08.600Z"
+    },
+    {
+      "turn": 8,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:12.703Z"
+    },
+    {
+      "turn": 8,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:12.703Z"
+    },
+    {
+      "turn": 8,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:12.703Z"
+    },
+    {
+      "turn": 8,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:12.703Z"
+    },
+    {
+      "turn": 8,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:12.703Z"
+    },
+    {
+      "turn": 9,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:15.734Z"
+    },
+    {
+      "turn": 9,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:15.734Z"
+    },
+    {
+      "turn": 9,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:15.734Z"
+    },
+    {
+      "turn": 9,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:15.734Z"
+    },
+    {
+      "turn": 9,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:15.734Z"
+    },
+    {
+      "turn": 10,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:19.804Z"
+    },
+    {
+      "turn": 10,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:19.804Z"
+    },
+    {
+      "turn": 10,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:19.804Z"
+    },
+    {
+      "turn": 10,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:19.804Z"
+    },
+    {
+      "turn": 10,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:19.804Z"
+    },
+    {
+      "turn": 11,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:24.089Z"
+    },
+    {
+      "turn": 11,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:24.089Z"
+    },
+    {
+      "turn": 11,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:24.089Z"
+    },
+    {
+      "turn": 11,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:24.089Z"
+    },
+    {
+      "turn": 11,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:24.089Z"
+    },
+    {
+      "turn": 12,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:28.239Z"
+    },
+    {
+      "turn": 12,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:28.239Z"
+    },
+    {
+      "turn": 12,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:28.239Z"
+    },
+    {
+      "turn": 12,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:28.239Z"
+    },
+    {
+      "turn": 12,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:28.239Z"
+    },
+    {
+      "turn": 13,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:32.414Z"
+    },
+    {
+      "turn": 13,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:32.414Z"
+    },
+    {
+      "turn": 13,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:32.414Z"
+    },
+    {
+      "turn": 13,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:32.414Z"
+    },
+    {
+      "turn": 13,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:32.414Z"
+    },
+    {
+      "turn": 14,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:36.210Z"
+    },
+    {
+      "turn": 14,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:36.210Z"
+    },
+    {
+      "turn": 14,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:36.210Z"
+    },
+    {
+      "turn": 14,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:36.210Z"
+    },
+    {
+      "turn": 14,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:36.210Z"
+    },
+    {
+      "turn": 15,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:40.245Z"
+    },
+    {
+      "turn": 15,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:40.245Z"
+    },
+    {
+      "turn": 15,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:40.245Z"
+    },
+    {
+      "turn": 15,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:40.245Z"
+    },
+    {
+      "turn": 15,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:40.245Z"
+    },
+    {
+      "turn": 16,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:44.406Z"
+    },
+    {
+      "turn": 16,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:44.406Z"
+    },
+    {
+      "turn": 16,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:44.406Z"
+    },
+    {
+      "turn": 16,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:44.406Z"
+    },
+    {
+      "turn": 16,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:44.406Z"
+    },
+    {
+      "turn": 17,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:48.401Z"
+    },
+    {
+      "turn": 17,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:48.401Z"
+    },
+    {
+      "turn": 17,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:48.401Z"
+    },
+    {
+      "turn": 17,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:48.401Z"
+    },
+    {
+      "turn": 17,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:48.401Z"
+    },
+    {
+      "turn": 18,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:52.048Z"
+    },
+    {
+      "turn": 18,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:52.048Z"
+    },
+    {
+      "turn": 18,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:52.048Z"
+    },
+    {
+      "turn": 18,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:52.048Z"
+    },
+    {
+      "turn": 18,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:52.048Z"
+    },
+    {
+      "turn": 19,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:55.882Z"
+    },
+    {
+      "turn": 19,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:55.882Z"
+    },
+    {
+      "turn": 19,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:55.882Z"
+    },
+    {
+      "turn": 19,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:55.882Z"
+    },
+    {
+      "turn": 19,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:43:55.882Z"
+    },
+    {
+      "turn": 20,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:00.092Z"
+    },
+    {
+      "turn": 20,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:00.092Z"
+    },
+    {
+      "turn": 20,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:00.092Z"
+    },
+    {
+      "turn": 20,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:00.092Z"
+    },
+    {
+      "turn": 20,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:00.092Z"
+    },
+    {
+      "turn": 21,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:04.236Z"
+    },
+    {
+      "turn": 21,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:04.236Z"
+    },
+    {
+      "turn": 21,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:04.236Z"
+    },
+    {
+      "turn": 21,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:04.236Z"
+    },
+    {
+      "turn": 21,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:04.236Z"
+    },
+    {
+      "turn": 22,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:08.434Z"
+    },
+    {
+      "turn": 22,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:08.434Z"
+    },
+    {
+      "turn": 22,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:08.434Z"
+    },
+    {
+      "turn": 22,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:08.434Z"
+    },
+    {
+      "turn": 22,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:08.434Z"
+    },
+    {
+      "turn": 23,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:12.270Z"
+    },
+    {
+      "turn": 23,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:12.270Z"
+    },
+    {
+      "turn": 23,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:12.270Z"
+    },
+    {
+      "turn": 23,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:12.270Z"
+    },
+    {
+      "turn": 23,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:12.270Z"
+    },
+    {
+      "turn": 24,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:16.571Z"
+    },
+    {
+      "turn": 24,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:16.571Z"
+    },
+    {
+      "turn": 24,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:16.571Z"
+    },
+    {
+      "turn": 24,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:16.571Z"
+    },
+    {
+      "turn": 24,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:16.571Z"
+    },
+    {
+      "turn": 25,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:19.886Z"
+    },
+    {
+      "turn": 25,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:19.886Z"
+    },
+    {
+      "turn": 25,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:19.886Z"
+    },
+    {
+      "turn": 25,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:19.886Z"
+    },
+    {
+      "turn": 25,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:19.886Z"
+    },
+    {
+      "turn": 26,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:24.019Z"
+    },
+    {
+      "turn": 26,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:24.019Z"
+    },
+    {
+      "turn": 26,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:24.019Z"
+    },
+    {
+      "turn": 26,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:24.019Z"
+    },
+    {
+      "turn": 26,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:24.019Z"
+    },
+    {
+      "turn": 27,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:27.767Z"
+    },
+    {
+      "turn": 27,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:27.767Z"
+    },
+    {
+      "turn": 27,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:27.767Z"
+    },
+    {
+      "turn": 27,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:27.767Z"
+    },
+    {
+      "turn": 27,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:27.767Z"
+    },
+    {
+      "turn": 28,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:32.068Z"
+    },
+    {
+      "turn": 28,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:32.068Z"
+    },
+    {
+      "turn": 28,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:32.068Z"
+    },
+    {
+      "turn": 28,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:32.068Z"
+    },
+    {
+      "turn": 28,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:32.068Z"
+    },
+    {
+      "turn": 29,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:36.248Z"
+    },
+    {
+      "turn": 29,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:36.248Z"
+    },
+    {
+      "turn": 29,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:36.248Z"
+    },
+    {
+      "turn": 29,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:36.248Z"
+    },
+    {
+      "turn": 29,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:36.248Z"
+    },
+    {
+      "turn": 30,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death right/Slime Death R4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:40.211Z"
+    },
+    {
+      "turn": 30,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L1.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:40.211Z"
+    },
+    {
+      "turn": 30,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L2.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:40.211Z"
+    },
+    {
+      "turn": 30,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L3.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:40.211Z"
+    },
+    {
+      "turn": 30,
+      "severity": "HIGH",
+      "summary": "Engine error: WARN: Failed to load sprite: Slime/Death left/Slime Death L4.png",
+      "details": null,
+      "timestamp": "2026-06-12T16:44:40.211Z"
+    }
+  ]
+}

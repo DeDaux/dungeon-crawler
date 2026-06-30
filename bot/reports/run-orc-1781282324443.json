@@ -1,0 +1,37 @@
+{
+  "runId": "run-orc-1781282324443",
+  "championId": "orc",
+  "timestamp": "2026-06-12T16:38:55.285Z",
+  "totalTurns": 6,
+  "highestFloor": 1,
+  "totalKills": 0,
+  "totalGold": 0,
+  "died": false,
+  "victory": false,
+  "totalDamageTaken": 0,
+  "totalDamageDealt": 0,
+  "bugsBySeverity": {
+    "CRITICAL": 3
+  },
+  "bugs": [
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Access to script at 'file:///C:/Users/bauzy/.gemini/antigravity/scratch/Sprites/src/main.js' from origin 'null' has been blocked by CORS policy: Cross origin requests are only supported for protocol s",
+      "timestamp": "2026-06-12T16:38:44.982Z"
+    },
+    {
+      "turn": 0,
+      "severity": "CRITICAL",
+      "summary": "Console error: Failed to load resource: net::ERR_FAILED",
+      "timestamp": "2026-06-12T16:38:44.985Z"
+    },
+    {
+      "turn": 6,
+      "severity": "CRITICAL",
+      "summary": "Orchestrator crash: page.waitForTimeout: Target page, context or browser has been closed",
+      "stack": "page.waitForTimeout: Target page, context or browser has been closed\n    at executeAction (C:\\Users\\bauzy\\.gemini\\antigravity\\scratch\\Sprites\\bot\\actions.js:59:33)\n    at runTest (C:\\Users\\bauzy\\.gemini\\antigravity\\scratch\\Sprites\\bot\\orchestrator.mjs:222:19)\n    at async main (C:\\Users\\bauzy\\.gemin",
+      "timestamp": "2026-06-12T16:38:55.116Z"
+    }
+  ]
+}

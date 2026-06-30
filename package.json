@@ -1,0 +1,20 @@
+{
+  "name": "dungeon-crawler",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A vanilla-JS canvas dungeon crawler",
+  "scripts": {
+    "start": "http-server -p 8741 -c-1 .",
+    "mp-server": "node server/index.js",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "playwright": "^1.45.0",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "vitest": "^4.1.9"
+  }
+}
